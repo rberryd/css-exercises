@@ -1,0 +1,18 @@
+.odd {
+    background: rgb(231, 152, 152);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.set_font {
+    font-size: 24px;
+}
+
+#div2 {
+    background: lightgreen;
+    font-weight: bold;
+}
